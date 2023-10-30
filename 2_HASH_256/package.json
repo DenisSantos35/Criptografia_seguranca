@@ -1,0 +1,16 @@
+{
+  "name": "2_hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis <denisdiogo18@hotmail.com> (http://www.horadecodar.com.br/)",
+  "license": "MIT",
+ "type": "module",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "7_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis <denisdiogo18@hotmail.com> (http://www.horadecodar.com.br/)",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  },
+  "type": "module"
+}

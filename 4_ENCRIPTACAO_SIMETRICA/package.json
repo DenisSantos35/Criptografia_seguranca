@@ -1,0 +1,13 @@
+{
+  "name": "4_encriptacao_simetrica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encriptacao_simetrica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis <denisdiogo18@hotmail.com> (http://www.horadecodar.com.br/)",
+  "license": "MIT",
+  "type": "module"
+}
