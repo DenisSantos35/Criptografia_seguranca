@@ -19,7 +19,7 @@ const {privateKey, publicKey} = generateKeyPairSync('rsa',{
 // encriptar informação
 const dadosCriptografados = publicEncrypt(
     publicKey,
-    Buffer.from("Mensagem super secreta")
+    Buffer.from("123")
 )
 
 console.log(dadosCriptografados.toLocaleString('hex'))

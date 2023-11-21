@@ -1,10 +1,14 @@
 import jwt from 'jsonwebtoken'
 
-const senha = "Jd14409696*"
+const senha = "123"
+
+// let token = jwt.sign({
+//     nome: "Denis Diogo dos Santos",
+//     email: "denisdiogo18@hotmail.com"    
+// }, senha);
 
 let token = jwt.sign({
-    nome: "Denis Diogo dos Santos",
-    email: "denisdiogo18@hotmail.com"    
+    num_cartao: "Gestor_Tecnologia_Inovacao"    
 }, senha);
 
 console.log(token)
